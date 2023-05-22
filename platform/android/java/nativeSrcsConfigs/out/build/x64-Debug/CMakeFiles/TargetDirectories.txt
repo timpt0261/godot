@@ -1,0 +1,3 @@
+C:/Users/Owner/Documents/UCSC/2022-2023_UCSC/Spring_2023_UCSC/CSE_117/godot/platform/android/java/nativeSrcsConfigs/out/build/x64-Debug/CMakeFiles/godot.dir
+C:/Users/Owner/Documents/UCSC/2022-2023_UCSC/Spring_2023_UCSC/CSE_117/godot/platform/android/java/nativeSrcsConfigs/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Owner/Documents/UCSC/2022-2023_UCSC/Spring_2023_UCSC/CSE_117/godot/platform/android/java/nativeSrcsConfigs/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
